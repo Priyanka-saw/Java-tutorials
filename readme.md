@@ -118,4 +118,4 @@ multitasking (managed by OS): allows an operating system to run multiple process
 
 To create a new thread class in java, we can either extend the thread class or inplement the runnable interface
 
-## collection framework
+

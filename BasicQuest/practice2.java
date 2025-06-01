@@ -94,9 +94,6 @@ public class practice2 {
         //     sum = sum + i;
         // }
         // System.out.println(sum);
-
-        
-
     }
         
 }
