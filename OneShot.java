@@ -174,18 +174,13 @@ public class OneShot {
         for (int i = 0; i < arr.length; i++) {
             // System.out.println(arr[i]);
         }
-
         //array is used to storre similar type of the data for integer type, boolean types
         int[] arr1 = {1, 2, 3, 4, 5};
         for (int i : arr1) {
-            System.out.println("for each loop : " + i);
-            
-        }
-
-        
+            System.out.println("for each loop : " + i);   
+        }        
     }
-
-        //function
+       //function
         public static void sum(int a, int b){
             int summ = a + b;
             System.out.println("sum of the number is " + (summ));
