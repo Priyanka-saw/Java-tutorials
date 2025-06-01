@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class CounntWord {
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) { 
         // String str = "priyanka saw";
         Scanner sc = new Scanner(System.in);
         System.out.println("enter string to count");
