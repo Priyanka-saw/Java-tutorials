@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class OneShot {
     public static void main(String[] args) {
-
-        
+ 
         //function declerations
         sum(12, 34);
 
@@ -180,9 +179,7 @@ public class OneShot {
         for (int i : arr1) {
             System.out.println("for each loop : " + i);
             
-        }
-
-        
+        } 
     }
 
         //function

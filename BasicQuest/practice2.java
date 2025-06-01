@@ -13,8 +13,6 @@ public class practice2 {
         // } else {
         //     System.out.println("Odd number " + CheckNum);
         // }
-
-
         //check prime no
         // int count = 0;
         // for (int i = 2; i*i <= CheckNum; i++) {
