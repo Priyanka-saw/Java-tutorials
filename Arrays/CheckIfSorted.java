@@ -3,7 +3,6 @@ public class CheckIfSorted {
         int[] arr = {1, 3, 5, 6, 7};
         System.out.println(isSorted(arr));
     } 
-
     public static boolean isSorted(int[] arr){
 
         //i-1 : for non-decending number

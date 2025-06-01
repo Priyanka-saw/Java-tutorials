@@ -6,7 +6,6 @@ public class MoveZeroEnd {
 
         //arr[] = {1, 0, 2, 3, 2, 0, 0, 4, 5, 1}
                 //   {1, 2, 3, 2, 4, 5, 1, 0, 0, 0}
-
         int[] arr = {1, 0, 2, 3, 2, 0, 0, 4, 5, 1};
         System.out.println(ZeroEnd(arr));
         System.out.println(Arrays.toString(arr));

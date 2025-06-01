@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class LeftRotate {
     public static void main(String[] args) {
-        
+
         //left rotate by one place
         // arr = {1, 2, 3, 4, 5}
         // arr = {2, 3, 4, 5, 1}
@@ -11,7 +11,6 @@ public class LeftRotate {
         LeftRotateOne(arr);
         System.out.println(Arrays.toString(arr));
     }
-
     public static int LeftRotateOne(int[] arr){
         int temp = arr[0];
         int n = arr.length;

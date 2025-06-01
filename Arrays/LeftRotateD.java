@@ -13,7 +13,6 @@ public class LeftRotateD {
         LeftRotateDPlace(arr, d);
         System.out.println(Arrays.toString(arr));
     }
-
     public static void LeftRotateDPlace(int[] arr, int d){
         int n = arr.length;
         d %= n;
